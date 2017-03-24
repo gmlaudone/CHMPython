@@ -6,8 +6,8 @@ use_math: true
 # Introduction to the Jupyter Notebook
 By the end of this workshop you should be able to:
 
-* start the Jupyter notebook, open an existing notebook and create a new one.
-* use the Jupyter notebook environment to carry out scientific calculations.
+* start the Jupyter Notebook, open an existing notebook and create a new one.
+* use the Jupyter Notebook environment to carry out scientific calculations.
 * create short programs using numerical variables. 
  
 ## What is the Jupyter Notebook?
