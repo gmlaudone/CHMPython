@@ -8,7 +8,7 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://gmlaudone.github.io/CHMPython"
+url: "https://gmlaudone.github.io/CHMPython/"
 baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
