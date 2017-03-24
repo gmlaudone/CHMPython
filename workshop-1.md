@@ -3,14 +3,14 @@ layout: page
 title: "Workshop 1"
 use_math: true
 --- 
-# Introduction to the Jupyter notebook
+# Introduction to the Jupyter Notebook
 By the end of this workshop you should be able to:
 
 * start the Jupyter notebook, open an existing notebook and create a new one.
 * use the Jupyter notebook environment to carry out scientific calculations.
 * create short programs using numerical variables. 
  
-## What is the Jupyter notebook?
+## What is the Jupyter Notebook?
 The Jupyter Notebook (previously IPython Notebook) is an interactive computing
 environment that enables you to author notebook documents that include:
 
