@@ -79,5 +79,22 @@
   <meta name="twitter:image" content="{{ page.share-img }}" />
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
-  {% endif %}  
+  {% endif %}
+      {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
+  <script type="text/JavaScript">
+//courtesy of BoogieJack.com
+function killCopy(e){
+return false
+}
+function reEnable(){
+return true
+}
+document.onselectstart=new Function ("return false")
+if (window.sidebar){
+document.onmousedown=killCopy
+document.onclick=reEnable
+}
+</script>
 </head>
