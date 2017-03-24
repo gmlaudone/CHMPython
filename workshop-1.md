@@ -64,16 +64,10 @@ computer.
 the Desktop folder of a University computer. Because of the "Deep Freeze" system
 used by the University IT system, Uni computers are wiped clean every night and
 restored to a previous state. The files you left in the Desktop folder will be
-removed; therefore it is extremely important that, **at the end of each session
-<<<<<<< HEAD
-you remember to back-up all the files you have been working on**. You could used
-your University OneDrive, an external
-hard-drive, a flash drive or a third-party cloud storage provider (such as Google Drive or
-=======
+removed; therefore it is extremely important that, **at the end of each session,
 you remember to back-up all the files you have been working on**. You could use
 your University OneDrive, an external
 hard-drive, a flash drive or a third party cloud storage provider (such as Google Drive or
->>>>>>> 0ee3a0cdda8826f5d247ffc97048dbb895d65271
 Dropbox). **All the files generated during these sessions are part of your
 assessment, so it is your responsibility to ensure they won't go missing.** 
  
