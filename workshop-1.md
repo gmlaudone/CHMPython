@@ -522,7 +522,7 @@ to solve the problems described below.
 prints the result to screen.
 
 The formula for this unit conversion is :
-$C = \frac{5}{9} (F-32)$
+$$C = \frac{5}{9} (F-32)$$
 Test your code with temperature values of 32 F and 212 F to verify that your
 code produces the expected results. 
  
