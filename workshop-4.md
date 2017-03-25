@@ -442,9 +442,8 @@ plt.legend()
  
 Use linear algebra and NumPy to balance the following chemical equation:
 
-x CH<sub>4</sub> + y O<sub>2</sub> = w H<sub>2</sub>O + z CO<sub>2</sub>
+x NaOH + y H<sub>2</sub>SO<sub>4</sub> = w H<sub>2</sub>O + z Na<sub>2</sub>SO<sub>4</sub>
 
-*Hint*: you will have to make an assumption and set the value of one of the
-variables, then write the mass balance for all the chemical elements involved
+*Hint*: you will have to write the mass balance for all the chemical elements involved
 and, finally, solve the resulting system of linear equations to find the values
 of x, y, w, z. 
