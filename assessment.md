@@ -19,6 +19,8 @@ Your code will be evaluated according to these criteria:
 
 The notebooks created during the workshops and the notebook containing the final coding task will form your portfolio. You will have to compress all of these files into a ZIP file and upload the zip file to the DLE by the deadline.
 
+**For referred coursework**, students will have to submit the same portfolio.
+
 ## IMPORTANT
 1. While collaboration during the workshops is highly encouraged, plagiarism will not be tolerated. The University takes plagiarism very seriously and the consequences can be serious. It is extremely simple to identify code that's been simply copied and pasted, and, should I be in doubt about the ownership of any of the work presented, I reserve myself the right to call you to my office and ask you to give me a detailed explanation of your coding choices.
 2. You are solely responsible for the saving, backing up and correct uploading of your coursework to the DLE. 
