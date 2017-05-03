@@ -446,4 +446,4 @@ x NaOH + y H<sub>2</sub>SO<sub>4</sub> = w H<sub>2</sub>O + z Na<sub>2</sub>SO<s
 
 *Hint*: you will have to write the mass balance for all the chemical elements involved
 and, finally, solve the resulting system of linear equations to find the values
-of x, y, w, z. 
+of x, y, w, z. In order to avoid the solution x=y=z=w=0, you should set the value of one of the variables (for example x=1) and solve for the other variables.
