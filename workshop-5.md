@@ -1559,9 +1559,12 @@ dissolved oxygen level for the years 2020 and 2050, assuming all other inputs
 remain the same. Please provide the R-squared value and a table summarising the
 descriptive statistics for the regression, and show the predicted dissolved
 oxygen values and the 95% confidence intervals on the plot. 
+
 **Important:**  it seems there is a bug in the version of "pandas" that's installed on the computers in Babbage.  If some of the numbers are missing from the initial table of data (as it happens for the Dissolved_Oxygen data) then the "predict" function of an Ordinary Least Squares regression results in an error.
-If you are having this issue, I suggest modifying the call the the Ordinary Least Squares regression as follows:
+If you are having this issue, I suggest modifying the call to the Ordinary Least Squares regression as follows:
+
 {% highlight python %}
 lm = smf.ols(formula = 'Dissolved_Oxygen ~ Year', data = data.dropna()).fit()
 {% endhighlight %}
+
 which will fix the error and should allow you to complete the exercise. 
