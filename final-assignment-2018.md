@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Final assignment 2016"
+title: "Final assignment 2018"
 use_math: true
 --- 
 Consider the 2 consecutive first order reactions:
