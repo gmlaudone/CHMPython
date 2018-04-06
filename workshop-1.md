@@ -166,6 +166,8 @@ external window.
 from matplotlib import *  
 {% endhighlight %}
 
+which will generate the following output:
+
     Populating the interactive namespace from numpy and matplotlib
     
  
@@ -184,7 +186,7 @@ plot(rand(100))
 {% endhighlight %}
 
 
-
+The output will be
 
     [<matplotlib.lines.Line2D at 0xa576470>]
 
