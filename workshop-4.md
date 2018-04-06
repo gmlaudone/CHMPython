@@ -440,10 +440,12 @@ plt.legend()
  
 ## Application 
  
-Use linear algebra and NumPy to balance the following chemical equation:
+A property of matrix multiplication is that, if $A$ is a $m\times n$ matrix, then
 
-x NaOH + y H<sub>2</sub>SO<sub>4</sub> = w H<sub>2</sub>O + z Na<sub>2</sub>SO<sub>4</sub>
+$I_{m}\, A=A\, I_{n}=A$
 
-*Hint*: you will have to write the mass balance for all the chemical elements involved
-and, finally, solve the resulting system of linear equations to find the values
-of x, y, w, z. In order to avoid the solution x=y=z=w=0, you should set the value of one of the variables (for example x=1) and solve for the other variables.
+where $I_{m}$ and $I_{n}$ are the $m\times m\ $  and $n\times n\ $  identity matrices.
+
+Generate (3,3) and (5,5) identity matrices and print them to screen.
+
+Create a program to generate a matrix A of shape (3,5) and to show that this property is true.
