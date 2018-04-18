@@ -257,6 +257,8 @@ index), counting from the beginning of the string and **starting at 0**; the
 first character in a string is identified by:
 
     s[0]
+
+
 where **s** is the name of the string variable. Similarly we could identify the
 second character with **[1]**, the third with **[2]** and so on.
 Print to screen the first character of the string **str1** that we defined
