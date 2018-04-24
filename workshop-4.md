@@ -357,7 +357,7 @@ This can be achieved using the code in the following cell:
 **In [13]:**
 
 {% highlight python %}
-f=open('workshop4-1.txt','r')
+f=open('workshop4_1.txt','r')
 x=[]
 y=[]
 for aLine in f: 
