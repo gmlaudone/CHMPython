@@ -512,7 +512,7 @@ its own using a feature called indexing:
 **In [14]:**
 
 {% highlight python %}
-data.ix[:,['Dissolved_Oxygen']]
+data.loc[:,['Dissolved_Oxygen']]
 {% endhighlight %}
 
 
@@ -619,7 +619,7 @@ corresponding to phosphate levels > 0.045.
 **In [15]:**
 
 {% highlight python %}
-data.ix[data['Phosphates'] > 0.045]
+data.loc[data['Phosphates'] > 0.045]
 {% endhighlight %}
 
 
@@ -769,7 +769,7 @@ We can use boolean operators to create additional subsets:
 **In [16]:**
 
 {% highlight python %}
-data.ix[(data['Ammonia'] > 0.06) & (data['Ammonia'] < 0.07)]
+data.loc[(data['Ammonia'] > 0.06) & (data['Ammonia'] < 0.07)]
 {% endhighlight %}
 
 
