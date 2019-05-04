@@ -6,7 +6,7 @@ subtitle:
 
 # Python installation.
 
-The Python installation needed for this series of workshops has been deployed to the computer suites where these sessions are going to take place. You can also download it and install it on your own computer. It's free and it can be installed on Windows, MacOSX and Linux computers. The installation file and the instructions needed to install the Anaconda Python distribution to your computer can be found [here](https://www.continuum.io/downloads). 
+The Python installation needed for this series of workshops has been deployed to the computer suites where these sessions are going to take place. You can also download it and install it on your own computer. It's free and it can be installed on Windows, MacOSX and Linux computers. The installation file and the instructions needed to install the Anaconda Python distribution to your computer can be found [here](https://www.anaconda.com/distribution/). 
 
 **IMPORTANT:** you should download the Python 2.7 version of Anaconda Python. Python 3.x has some small but significant differences, and some of the code we use in this module will only work in Python 2.x.
 
