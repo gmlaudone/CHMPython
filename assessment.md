@@ -8,7 +8,7 @@ During each workshop you will be asked to create a new Jupyter notebook. You wil
 
 In the **Applications** section of each workshop, you will be asked to use the coding concepts learnt during the interactive session in order to create simple programs and complete the short assignments. This part of your coursework will be assigned a mark from 0 to 50 (5 x a maximum of 10 marks).
 
-At the end of the series of workshops you will also be presented with [one final (sightly more complex) coding task](final-assignment-2019). This will be assigned a mark from 0 to 20.
+At the end of the series of workshops you will also be presented with [one final (sightly more complex) coding task](final-assignment-2020). This will be assigned a mark from 0 to 20.
 
 Your code will be evaluated according to these criteria:
 
