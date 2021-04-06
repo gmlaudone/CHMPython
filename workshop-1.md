@@ -3,6 +3,17 @@ layout: page
 title: "Workshop 1"
 use_math: true
 --- 
+# Installation of Anaconda Python and the Jupyter Notebook
+Before we start coding we have to download the software we need to do so. The lastest version of the Anaconda 2 installer can be downloaded from 
+[https://repo.anaconda.com/archive/Anaconda2-5.3.1-Windows-x86_64.exe](https://repo.anaconda.com/archive/Anaconda2-5.3.1-Windows-x86_64.exe)
+
+The download is around 580 Mb, so it may take some time, depending on the speed of your internet connection. 
+Once downloaded, run the Anaconda2-5.3.1-Windows-x86_64.exe by double clicking on it. This will start the installation process. Follow the instructions to complete the installation (I recommend using the default installation settings). This process could also take a while.
+
+Once the installation is complete you can start Jupyter notebook by going in the Windows start menu, typing “Jupyter” and clicking on “Jupyter Notebook”.
+
+This will initially open a black command line window, where some text will appear. It is important that you DO NOT CLOSE this window, as it contains the Python “server” that will allow us to use Python from within the Jupyter Notebook, which runs inside your web-browser, which will open shortly after.
+
 # Introduction to the Jupyter Notebook
 By the end of this workshop you should be able to:
 
@@ -36,10 +47,8 @@ back to the notebook web application.
 In this workshop we will introduce the user interface. 
  
 ## The Notebook dashboard
-Start the Jupyter Notebook. On a University computer this can be done from the
-**Start** menu, under "University Software -> P -> Python Anaconda 2.7.1 -> IPython (Py 2.7)
-Notebook".
-When you first start the notebook server, Chrome will open to the notebook
+
+When you first start the Jupyter Notebook server, your web-brower will open to the notebook
 dashboard. The dashboard serves as a home page. Its main purpose is to display
 the notebooks (files with **.ipynb** extension) and other files in the current
 directory. For example, here is a screenshot of the dashboard page for the
@@ -51,7 +60,9 @@ You'll see a list of subdirectories and files. It is possible to navigate the
 file system and open files by clicking on the subdirectories or the file names
 in the list.
 
-Navigate to the Desktop of your computer.
+o Documents or to OneDrive (better because it will back-up your files on the cloud), create a new folder using the “New” menu at the top right corner.  This is the folder where your notebooks will be saved.
+
+Now you are ready to start coding.
 
 To create a new notebook, click on the "New" button at the top of the list and
 select a file type from the dropdown (as seen here).
@@ -60,16 +71,6 @@ select a file type from the dropdown (as seen here).
 Go ahead and create a new notebook of *Python 2* type on the Desktop of your
 computer. 
  
-**IMPORTANT:** during these sessions you will be creating your notebook files on
-the Desktop folder of a University computer. Because of the "Deep Freeze" system
-used by the University IT system, Uni computers are wiped clean every night and
-restored to a previous state. The files you left in the Desktop folder will be
-removed; therefore it is extremely important that, **at the end of each session,
-you remember to back-up all the files you have been working on**. You could use
-your University OneDrive, an external
-hard-drive, a flash drive or a third party cloud storage provider (such as Google Drive or
-Dropbox). **All the files generated during these sessions are part of your
-assessment, so it is your responsibility to ensure they won't go missing.** 
  
 ## The notebook user interface
 If you create a new notebook or open an existing one, you will be taken to the
