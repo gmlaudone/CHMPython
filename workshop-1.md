@@ -60,7 +60,7 @@ You'll see a list of subdirectories and files. It is possible to navigate the
 file system and open files by clicking on the subdirectories or the file names
 in the list.
 
-o Documents or to OneDrive (better because it will back-up your files on the cloud), create a new folder using the “New” menu at the top right corner.  This is the folder where your notebooks will be saved.
+Navigate to Documents or to OneDrive (better because it will back-up your files on the cloud), create a new folder using the “New” menu at the top right corner. Name the folder CHM1016_Python. This is the folder where your notebooks will be saved. You can then open the folder you created.
 
 Now you are ready to start coding.
 
