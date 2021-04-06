@@ -440,12 +440,21 @@ plt.legend()
  
 ## Application 
  
-A property of matrix multiplication is that, if $A$ is a $m\times n$ matrix, then
+The following table shows a relationship between the concentration on an ion in solution and the signal measured from an instrument (in arbitrary units):
 
-$I_{m}\, A=A\, I_{n}=A$
+| Ion concentration (ppm)        | Signal (arb.) |
+|--------------------------------|---------------|
+| 0.00                           | 0.000         |
+| 2.00                           | 0.013         |
+| 10.0                           | 0.076         |
+| 20.0                           | 0.162         |
+| 30.0                           | 0.245         |
+| 50.0                           | 0.405         |
+| 75.0                           | 0.598         |
+| 100.0                          | 0.748         |
+| 125.0                          | 0.817         |
+| 150.0                          | 0.872         |
 
-where $I_{m}$ and $I_{n}$ are the $m\times m\ $  and $n\times n\ $  identity matrices.
+* Plot the signal vs concentration.
+* Attempt a first and second order polynomial fitting and show the fitting parameters.
 
-Generate (3,3) and (5,5) identity matrices and print them to screen.
-
-Create a program to generate a matrix A of shape (3,5) and to show that this property is true.
