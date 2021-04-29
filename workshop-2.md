@@ -681,7 +681,7 @@ for i in range(20):
 6, 7, 8, 9, 10]**, use a **for** loop to create a new list y that contains the
 value
 
-$$a \sin(10 a)$$
+$a \sin(10 a)$
 for each value **a** in the list **x**.
 
 then plot the results using **plot(x,y)** (we'll explain this in more details
